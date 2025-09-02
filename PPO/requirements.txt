@@ -1,0 +1,12 @@
+numpy
+numpydoc
+torch
+torchaudio
+torchvision
+pygame
+gym
+gym-notices
+matplotlib
+matplotlib-inline
+tqdm
+opencv-python
